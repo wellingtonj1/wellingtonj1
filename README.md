@@ -26,7 +26,7 @@
 </div>
   
 </br>
- <img align="right" alt="pic" height="200" width="1020" style="border-radius:50px;" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
+ <img align="right" alt="pic" height="200" width="850" style="border-radius:50px;" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
   
 <!--
 **wellingtonj1/wellingtonj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
